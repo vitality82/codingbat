@@ -1,3 +1,3 @@
 codingbat
 =========
-Java practice problems from http://codingbat.com/java
+Solutions to practice problems from http://codingbat.com/java
